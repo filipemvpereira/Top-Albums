@@ -1,0 +1,19 @@
+/*
+  Localizable.strings
+  CoreResources
+
+  Created by Filipe Pereira on 08/12/2025.
+
+*/
+
+// Album List
+"album_list_title" = "Top Albums";
+"album_list_loading" = "Loading albums...";
+"album_list_error" = "Failed to load albums. Please try again.";
+"album_list_retry" = "Retry";
+
+// Album Detail
+"album_detail_title" = "Album Details";
+"album_detail_loading" = "Loading album details...";
+"album_detail_error" = "Failed to load album details. Please try again.";
+"album_detail_retry" = "Retry";
